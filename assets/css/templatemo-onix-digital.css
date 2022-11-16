@@ -979,14 +979,14 @@ Banner Style
 
 .main-banner:before {
   content: '';
-  background-image: url(../images/banner-right-image.jpg);
+  background-image: url(../images/banner-right-image.webp);
   background-repeat: no-repeat;
   background-size: cover;
   position: absolute;
-  right: 0px;
-  top: 72px;
-  width: 721px;
-  height: 411px;
+  right: -83px;
+  top: 100px;
+  width: 858px;
+  height: 353px;
 }
 
 .main-banner .item {
