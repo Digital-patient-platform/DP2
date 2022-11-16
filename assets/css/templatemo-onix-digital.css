@@ -1443,14 +1443,10 @@ Pricing
   text-align: center;
   box-shadow: 3px 3px 26px rgb(0 0 0 / 28%);
   border-radius: 200px;
-  width: 450px;
-  height: 450px;
+  width: 400px;
+  height: 400px;
   padding-top: 87px;
 }
-
-
-
-
 
 .pricing-tables .item h4 {
   font-size: 20px;
