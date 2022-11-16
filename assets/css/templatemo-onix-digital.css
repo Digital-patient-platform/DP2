@@ -1228,7 +1228,7 @@ Portfolio
 
 .our-portfolio .portfolio-left-dec img {
   width: 342px;
-  height: 311px;
+  height: 211px;
   left: 45px;
   top: 120px;
   position: absolute;
@@ -1277,9 +1277,9 @@ Portfolio
   background-size: cover;
   transition: all .5s;
   bottom: -240px;
-  right: 30px;
-  width: 239px;
-  height: 210px;
+  right: 70px;
+  width: 180px;
+  height: 150px;
 }
 
 .our-portfolio .item .hover-effect .inner-content {
@@ -1290,19 +1290,21 @@ Portfolio
 }
 
 .our-portfolio .item .hover-effect .inner-content h4 {
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 700;
   color: #fff;
   margin-bottom: 15px;
 }
 
 .our-portfolio .item .hover-effect .inner-content span {
-  font-size: 15px;
+  font-size: 13px;
   color: #fff;
 }
 
 .our-portfolio .item .thumb img {
   border-radius: 20px;
+  height: 440px;
+  width: 390px;
   transition: all .3s;
 }
 
@@ -2007,7 +2009,7 @@ footer .footer-item form button {
 footer .copyright p {
   text-align: center;
   border-top: 1px solid #eee;
-  color: #afafaf;
+  color: #6f6e6e;
   margin-top: 50px;
   padding: 20px 0px;
   font-weight: 300;
