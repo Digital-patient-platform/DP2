@@ -1001,7 +1001,7 @@ Banner Style
 }
 
 .main-banner .item h2 {
-  font-size: 50px;
+  font-size: 48px;
   font-weight: 700;
   color: #2a2a2a;
   line-height: 72px;
@@ -1018,6 +1018,7 @@ Banner Style
 
 .main-banner .item p {
   margin: 20px 0px;
+  font-size: 17px;
 }
 
 .main-banner .item .down-buttons {
@@ -1434,6 +1435,7 @@ Pricing
 .pricing-tables .section-heading {
   text-align: center;
   margin-bottom: 35px;
+  margin-top: 20px;
 }
 
 .pricing-tables .section-heading h2 {
@@ -1982,7 +1984,7 @@ footer .footer-item ul li a:hover {
 
 footer .footer-item p {
   font-size: 15px;
-  color: #afafaf;
+  color: #696868;
   margin-top: -5px;
 }
 
